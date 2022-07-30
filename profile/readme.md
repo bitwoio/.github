@@ -42,7 +42,7 @@
     </h3>
     <p><img src="https://github.com/bitwoio/.github/blob/main/assets/ethereum-logo.png" alt="Ethereum" height="16"/> <span>Ethereum (ETC):</span> <code>COMING SOON</code></p>
     <p><img src="https://github.com/bitwoio/.github/blob/main/assets/bitcoin-logo.png" alt="Bitcoin" height="16"/> <span>Bitcoin (BTC):</span> <code>COMING SOON</code></p>
-    <p><img src="https://github.com/bitwoio/.github/blob/main/assets/bitcoin-logo.png" alt="Tether" height="16"/> <span>Tether (USDT):</span></p>
+    <p><img src="https://github.com/bitwoio/.github/blob/main/assets/tether-logo.png" alt="Tether" height="16"/> <span>Tether (USDT):</span></p>
   </div>
   <div>
      <a href="https://github.com/ItsAnunesS/" target="_blank"><img src="https://img.shields.io/github/followers/bitwo?color=b100e3" alt="Followers badge"/></a>
