@@ -44,6 +44,8 @@
     <p><img src="https://github.com/bitwoio/.github/blob/main/assets/bitcoin-logo.png" alt="Bitcoin" height="16"/> <span>Bitcoin:</span> <code>COMING SOON</code></p>
   </div>
   <div>
-    <img src="https://komarev.com/ghpvc/?username=bitwoio&&style=flat-square">
+     <a href="https://github.com/ItsAnunesS/" target="_blank"><img src="https://img.shields.io/github/followers/bitwo?color=b100e3" alt="Followers badge"/></a>
+     <a href="https://github.com/ItsAnunesS/" target="_blank"><img src="https://komarev.com/ghpvc/?username=bitwo&color=b100e3&style=flat&label=visitors" alt="Visitor badge"/></a>
+     <a href="https://github.com/ItsAnunesS/" target="_blank"><img src="https://img.shields.io/github/stars/bitwo?color=b100e3" alt="Stars badge"  /></a>
   </div>
 </div>
