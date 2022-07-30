@@ -31,8 +31,8 @@
       <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
       </a>
-      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg" alt="laravel" width="40" height="40"/>
+      <a href="https://go.dev/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg" alt="GO" width="40" height="40"/>
       </a>
     </p>
   </div>
@@ -40,8 +40,8 @@
     <h3>
       Crypto Wallets
     </h3>
-    <p><img src="https://github.com/bitwoio/.github/blob/main/assets/ethereum.png" alt="laravel" height="20"/><span>Ethereum:</span> dasddds</p>
-    <p><span>Ethereum:</span> dasddds</p>
+    <p><img src="https://github.com/bitwoio/.github/blob/main/assets/ethereum-logo.png" alt="Ethereum" height="16"/> <span>Ethereum:</span> <COMING SOON></p>
+    <p><img src="https://github.com/bitwoio/.github/blob/main/assets/bitcoin-logo.png" alt="Bitcoin" height="16"/> <span>Bitcoin:</span> <COMING SOON></p>
   </div>
   <div>
     <img src="https://komarev.com/ghpvc/?username=bitwoio&&style=flat-square">
