@@ -40,8 +40,8 @@
     <h3>
       Crypto Wallets
     </h3>
-    <p><img src="https://github.com/bitwoio/.github/blob/main/assets/ethereum-logo.png" alt="Ethereum" height="16"/> <span>Ethereum:</span> <COMING SOON></p>
-    <p><img src="https://github.com/bitwoio/.github/blob/main/assets/bitcoin-logo.png" alt="Bitcoin" height="16"/> <span>Bitcoin:</span> <COMING SOON></p>
+    <p><img src="https://github.com/bitwoio/.github/blob/main/assets/ethereum-logo.png" alt="Ethereum" height="16"/> <span>Ethereum:</span> <code>COMING SOON</code></p>
+    <p><img src="https://github.com/bitwoio/.github/blob/main/assets/bitcoin-logo.png" alt="Bitcoin" height="16"/> <span>Bitcoin:</span> <code>COMING SOON</code></p>
   </div>
   <div>
     <img src="https://komarev.com/ghpvc/?username=bitwoio&&style=flat-square">
