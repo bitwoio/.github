@@ -40,7 +40,7 @@
     <h3>
       Crypto Wallets
     </h3>
-    <p><img src="https://github.com/bitwoio/.github/blob/main/assets/ethereum-logo.png" alt="Ethereum" height="16"/> <span>Ethereum (ETC):</span> <code>0xB4220Afc63665aAC8f9907a617Ffc6EA5b060833</code></p>
+    <p><img src="https://github.com/bitwoio/.github/blob/main/assets/ethereum-logo.png" alt="Ethereum" height="16"/> <span>Ethereum (ETC):</span> <code>0xecfAB4b932b4Cfb48c11B89004cB680e2a821544</code></p>
     <p><img src="https://github.com/bitwoio/.github/blob/main/assets/bitcoin-logo.png" alt="Bitcoin" height="16"/> <span>Bitcoin (BTC):</span> <code>bc1q57a233m6jghfyj0dvztxkcs6s06rrchfwr5asasfrq9ruz24ukksjzeg2x</code></p></p>
   </div>
   <div>
