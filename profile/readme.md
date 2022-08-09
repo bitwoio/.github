@@ -7,7 +7,7 @@
   <div>
     <h3>Languages and Tools:</h3>
     <p>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
       </a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -16,14 +16,14 @@
       <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
       </a>
-      <a href="https://www.php.net" target="_blank" rel="noreferrer">
+      <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/>
-      </a>
-      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
       </a>
       <a href="https://go.dev/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg" alt="GO" width="40" height="40"/>
+      </a>
+      <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-plain.svg" alt="GO" width="40" height="40"/>
       </a>
     </p>
   </div>
