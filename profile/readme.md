@@ -7,15 +7,6 @@
   <div>
     <h3>Languages and Tools:</h3>
     <p>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-      </a>
-      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" alt=".NET" width="40" height="40"/>
-      </a>
-      <a href="https://unity.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
-      </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
       </a>
