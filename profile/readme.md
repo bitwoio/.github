@@ -23,7 +23,10 @@
         <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg" alt="GO" width="40" height="40"/>
       </a>
       <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-plain.svg" alt="GO" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-plain.svg" alt="ruby" width="40" height="40"/>
+      </a>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
       </a>
     </p>
   </div>
