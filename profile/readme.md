@@ -4,7 +4,6 @@
       <img src="https://github.com/bitwoio/.github/blob/main/assets/logo.png" width="200">
     </a>
   </div>
-  
   <div>
     <h3>Languages / Techies</h3>
     <p>
@@ -37,6 +36,17 @@
       </a>
       <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40" />
+      </a>
+    </p>
+  </div>
+  <div>
+    <h3>DevOps</h3>
+    <p>
+      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+      </a>
+      <a href="https://www.arweave.org/" target="_blank" rel="noreferrer">
+        <img src="https://arweave.net/wsRvOLNSSw5RaZcSV1sCwIZL0HERto-iEf1xETxcaZE" alt="Arweave" width="40" height="40"/>
       </a>
     </p>
   </div>
