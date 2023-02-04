@@ -10,7 +10,7 @@
 <p>Join us and discover how together we can transform the digital world. 🚀</p>
 
 
-<div align="center">
+<div>
   <h2>Languages / Techies</h2>
   <div>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer">
@@ -50,7 +50,7 @@
 </div>
 
 
-<div align="center">
+<div>
   <h2>DevOps</h2>
   <div>
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
@@ -66,14 +66,13 @@
 </div>
 
 <div align="center">
-  <h2>Crypto Wallets</h2>
   <p>
     <img src="https://github.com/bitwoio/.github/blob/main/assets/ethereum-logo.png" alt="Ethereum" height="16"/><span>Ethereum (ETH):</span> <code>0xecfAB4b932b4Cfb48c11B89004cB680e2a821544</code>
   </p>
   <p>
     <img src="https://github.com/bitwoio/.github/blob/main/assets/bitcoin-logo.png" alt="Bitcoin" height="16"/> <span>Bitcoin (BTC):</span> <code>bc1q57a233m6jghfyj0dvztxkcs6s06rrchfwr5asasfrq9ruz24ukksjzeg2x</code>
   </p>
-  <div>
+  <div align="center">
     <a href="https://github.com/ItsAnunesS/" target="_blank">
       <img src="https://img.shields.io/github/followers/bitwo?color=b100e3" alt="Followers badge"/>
     </a>
