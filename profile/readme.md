@@ -19,14 +19,20 @@
       <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHOP" width="40" height="40"/>
       </a>
-      <a href="https://symfony.com" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" alt="Symfony" width="40" height="40"
-      </a>
       <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
       </a>
       <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
+      </a>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"
+      </a>
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"
+      </a>
+      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"
       </a>
       <a href="https://vuejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40">
@@ -44,6 +50,9 @@
       </a>
       <a href="https://www.arweave.org/" target="_blank" rel="noreferrer">
         <img src="https://arweave.net/wsRvOLNSSw5RaZcSV1sCwIZL0HERto-iEf1xETxcaZE" alt="Arweave" width="40" height="40"/>
+      </a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/>
       </a>
     </p>
   </div>
