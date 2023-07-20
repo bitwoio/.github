@@ -48,6 +48,9 @@
     <a href="https://vuejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VueJS" width="40" height="40">
     </a>
+    <a href="https://nuxt.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/nuxtjs/nuxtjs-original.svg" alt="NuxtJS" width="40" height="40">
+    </a>
     <a href="https://react.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"
     </a>
