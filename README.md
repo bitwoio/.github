@@ -9,7 +9,6 @@
 <p>In addition to offering digital products for medium and large companies, we also serve the Open Source community. What sets us apart is our customer-centric approach and our passion for creating high-quality personalized solutions. We are not concerned with serving as many people as possible, but rather with providing exceptional service.</p>
 <p>Join us and discover how together we can transform the digital world. 🚀</p>
 
-
 <div>
   <h2>Languages / Techies</h2>
   <div>
@@ -22,6 +21,9 @@
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="40" height="40"/>
     </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" alt="ExpressJS" width="40" height="40"/>
+    </a>
     <a href="https://graphql.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40"/>
     </a>
@@ -33,6 +35,12 @@
     </a>
     <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="40" height="40"/>
+    </a>
+    <a href="https://woocommerce.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/woocommerce/woocommerce-plain.svg" alt="WooCommerce" width="40" height="40"/>
+    </a>
+    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/solidity/solidity-plain.svg" alt="Solidity" width="40" height="40"/>
     </a>
     <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"
@@ -49,10 +57,12 @@
   </div>
 </div>
 
-
 <div>
   <h2>DevOps</h2>
   <div>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" alt="GIT" width="40" height="40"/>
+    </a>
     <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
     </a>
@@ -61,6 +71,24 @@
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/>
+    </a>
+  </div>
+</div>
+
+<div>
+  <h2>Databases</h2>
+  <div>
+    <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-plain.svg" alt="MySQL" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
     </a>
   </div>
 </div>
